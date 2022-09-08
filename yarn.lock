@@ -13893,10 +13893,10 @@ react-native-config@1.4.5:
   resolved "https://registry.yarnpkg.com/react-native-config/-/react-native-config-1.4.5.tgz#6fe5895410b75e44fe4f4bf00caaf894a0981f3a"
   integrity sha512-5oiAsoW88SOYDg/0cleJ2vJDqv98FJUbFQYEnH4sdMtEn3AAT3lb7BkTGW8HO/t3Vk9VOruwxUUnO4tzuxzCsw==
 
-react-native-dev-menu@4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/react-native-dev-menu/-/react-native-dev-menu-4.0.2.tgz#1e569b1fbb2740d1eab8cb3d5adfa4bf9fd89d71"
-  integrity sha512-tjWAULoJgOr/WjcfhFsCYaZGtQNmApm7gD5d7G/kSAWVBdEbFFuN2MIq+CxAxBsjHSwscysD1C55TCcmXP/82w==
+react-native-dev-menu@4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-dev-menu/-/react-native-dev-menu-4.1.1.tgz#7e2b3bfa7345946330ead3d0696b5de257c55553"
+  integrity sha512-jdYjoTpFHvGXW12enaTnrgOoEgVF5JVqv4hcO8K0KV66Cvk8YLwD3XHsEiqMat+4C1osa+IG5Yt3qAiMOLBQxQ==
 
 react-native-device-info@8.4.8:
   version "8.4.8"
